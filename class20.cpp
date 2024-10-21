@@ -10,3 +10,21 @@
 // 2. Protected Mode
 // 3. Public Mode
 
+/*
+
+Public Mode:
+    - Public members of the base class become public members of the derived class.
+    - Protected members of the base class become protected members of the derived class.
+    - Private members of the base class cannot be accessed in the derived class.
+Protected Mode:
+    - Public members of the base class become protected members of the derived class.
+    - Protected members of the base class become protected members of the derived class.
+    - Private members of the base class cannot be accessed in the derived class.
+
+Private Mode:
+    - Public members of the base class become private members of the derived class.
+    - Protected members of the base class become private members of the derived class.
+    - Private members of the base class cannot be accessed in the derived class.
+
+*/
+
