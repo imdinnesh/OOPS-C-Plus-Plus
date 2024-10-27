@@ -6,7 +6,7 @@ OOPS Concepts:
     OOPS is a way of writing code/programing paradigm 
         that involves creating classes and objects.
     We also have procedural programming, which is 
-        writing code in a procedural way.
+        writing code in a procedural way. or involves functions.
     
     OOPS involves the following concepts:
         1. Class
@@ -53,6 +53,7 @@ OOPS Concepts:
             details to the user.
         Abstraction is a way of hiding the complexity of 
             the code.
+
 
 
 */
